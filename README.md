@@ -102,7 +102,8 @@ DIVIDE([YTD Total Sales] - [PYTD Total Sales], [PYTD Total Sales])
 ---
 
 ## 📸 Dashboard Preview
-<img width="1436" height="805" alt="dashboard_overview" src="https://github.com/user-attachments/assets/2431a641-42bf-47a4-9ee8-16038f1cab07" />
+<img width="1438" height="801" alt="dashboard_overview" src="https://github.com/user-attachments/assets/36ebee50-3a16-4981-8b91-aa0408d74a26" />
+
 
 - Executive Overview Page
 - Sales Analysis Page
